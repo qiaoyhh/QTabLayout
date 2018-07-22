@@ -28,6 +28,9 @@ import android.view.accessibility.AccessibilityManager;
 
 import static android.view.View.SYSTEM_UI_FLAG_LOW_PROFILE;
 
+/**
+ * 系统的
+ */
 
 //@RestrictTo(LIBRARY_GROUP)
 class TooltipCompatHandler implements View.OnLongClickListener, View.OnHoverListener,

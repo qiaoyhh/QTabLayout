@@ -56,7 +56,7 @@ import static android.support.v4.view.ViewPager.SCROLL_STATE_IDLE;
 import static android.support.v4.view.ViewPager.SCROLL_STATE_SETTLING;
 
 /**
- * 复制的源码，在源码的基础上进行修改，基于support 25
+ * 复制的源码，在源码的基础上进行修改，基于support 27
  *
  */
 
